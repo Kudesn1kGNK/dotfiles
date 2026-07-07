@@ -1,0 +1,18 @@
+[mgr]
+ratio = [1, 4, 3]
+
+show_hidden = true
+show_symlink = true
+
+sort_by = "size"
+sort_sensitive = true
+sort_reverse = true
+sort_dir_first = true
+
+# linemode = "size"
+linemode = "size_mtime"
+
+scrolloff = 5
+mouse_events = ["click", "scroll"]
+
+title_format = "Yazi: {cwd}"
