@@ -1,0 +1,8 @@
+[keybindings]
+"mod+return" = "spawn ghostty"
+"ctrl+alt+t" = "spawn ghostty"
+
+"mod+e" = "exec firefox"
+"mod+l" = "spawn swaylock -f -c 000000 -kl"
+"mod+ctrl+l" = "quit"
+"mod+r" = "reload-config"
